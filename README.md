@@ -1,6 +1,6 @@
 # Central Limit Theorem Demo
 
-In probability theory, [the central limit theorem (CLT)](https://en.wikipedia.org/wiki/Central_limit_theorem) establishes that, in most situations, when independent random variables are added, their properly normalized sum tends toward a normal distribution even if the original variables themselves are not normally distributed.
+In probability theory, [the central limit theorem (CLT)](https://en.wikipedia.org/wiki/Central_limit_theorem) establishes that, in most situations, when independent random variables are added, their properly normalized sum tends toward a normal distribution even if the original variables themselves are not normally distributed. This project illustrates the CLT.
 
 # Requirements
 
